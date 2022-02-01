@@ -1,0 +1,43 @@
+{
+    "review": "the battery life is great. the ssd card slot is broken. great resolution and sound. overall worth it",
+    "topics": [
+        {
+            "aspect": {
+                "battery life": 0.6665691741630225
+            },
+            "sentence": "battery life great",
+            "sentiment": {
+                "battery life": "positive"
+            }
+        },
+        {
+            "aspect": {
+                "processor & memory": 0.7406919893052508
+            },
+            "sentence": "ssd card slot broken",
+            "sentiment": {
+                "processor & memory": "negative"
+            }
+        },
+        {
+            "aspect": {
+                "display quality": 0.4365221416073281,
+                "sound quality": 0.33331241987977545
+            },
+            "sentence": "great resolution sound",
+            "sentiment": {
+                "display quality": "positive",
+                "sound quality": "positive"
+            }
+        },
+        {
+            "aspect": {
+                "price": 0.686884144833738
+            },
+            "sentence": "overall worth",
+            "sentiment": {
+                "price": "positive"
+            }
+        }
+    ]
+}
